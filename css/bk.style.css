@@ -1,0 +1,67 @@
+.daohang .daohang a {
+  color: #808080;
+}
+
+.daohang a:link {
+  color: #808080;
+}
+
+.daohang a:visited {
+  color: #808080;
+}
+
+.daohang a:hover {
+  color: #3280fc;
+}
+
+.daohang a:active {
+  color: green;
+}
+
+.neirong {
+  max-width: 1020px;
+  margin: 0 auto;
+  border: 0 10px;
+}
+
+.juzhong {
+  text-align: center
+}
+
+.footbox {
+  position: absolute;
+  bottom: 0;
+  margin: 0 auto;
+  padding: 0 0;
+  width: 100%;
+  color: #808080
+}
+
+.footbox a {
+  color: #808080;
+}
+
+.footbox a:link {
+  color: #808080;
+}
+
+.footbox a:visited {
+  color: #808080;
+}
+
+.footbox a:hover {
+  color: #3280fc;
+}
+
+.footbox a:active {
+  color: green;
+}
+
+.footbox img {
+    vertical-align: middle;
+    width: 16px;
+    height: 16px;
+    margin-left: 2px;
+    margin-bottom: 3px;
+    filter: brightness(200%);
+}
